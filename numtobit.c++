@@ -12,6 +12,6 @@ int n,ans=0,i=0;
       n=n>>1;
       i++;
     }
-  cout<<"bit representation of "<<n<<"is:"<<ans;
+  cout<<"bit representation is: "<<ans;
   return 0;
 }
