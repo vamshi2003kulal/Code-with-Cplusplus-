@@ -1,5 +1,6 @@
-#include<iostream.h>
+#include<iostream>
 #include<math.h>
+using namespace std;
 int main(){
 int n,ans=0,i=0;
   cout<<"ENTER VALUE FOR N:";
